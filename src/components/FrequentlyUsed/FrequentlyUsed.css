@@ -1,0 +1,64 @@
+.freq-container {
+    display: flex;
+    font-size: 13px;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 0;
+    gap: 19px;  
+    width: 39%;
+    background-color: #eae9e9;
+    padding: 20px 10px;
+    border-radius: 13px;
+}
+
+.freq-container h4, p {
+    margin: 2px;
+}
+
+.freqall-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.toggle-container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.toggle-button2 {
+    width: 30px;
+    height: 15px;
+    border-radius: 50px;
+    background-color: #ccc;
+    position: relative;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.toggle-button2.active {
+    background-color: #4caf50;
+    /* Green color for "On" */
+}
+
+.toggle-button2 .toggle-slider2 {
+    width: 13px;
+    height: 11px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    transition: transform 0.3s ease;
+}
+
+.toggle-button2.active .toggle-slider2 {
+    transform: translateX(13px);
+    /* Move to the right for "On" state */
+}
+
+.toggle-label2 {
+    margin-left: 10px;
+    font-size: 13px;
+}

@@ -1,0 +1,21 @@
+.device {
+    width: 98%;
+    height: auto;
+    border-radius: 20px;
+    display: block;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    /* margin-bottom: 15px; */
+    margin: 15px 3px;
+    transition: transform 0.3s ease;
+}
+
+.device-list {
+    text-align: center;
+    height: auto;
+}
+
+.kitchen-page {
+    height: 100vh;
+}

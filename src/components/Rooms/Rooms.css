@@ -1,0 +1,40 @@
+.room img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    display: block;
+}
+
+.room-details {
+    background-color: #eae9e9a7;
+    color: #101212;
+    font-weight: 500;
+    border-radius: 20px;
+    width: 97%;
+    padding: 5px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.room-detail {
+    margin-left: 13px;
+}
+
+.room-detail:last-child {
+    font-weight: 500;
+    font-size: 14px;
+    color: #101212ca;
+}
+
+.room {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    /* margin-bottom: 15px; */
+    margin: 15px 5px;
+    transition: transform 0.3s ease;
+}
+
+.room:hover {
+    transform: scale(0.95);
+}
