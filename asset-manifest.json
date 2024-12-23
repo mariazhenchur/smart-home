@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smart-home/static/css/main.a71e576a.css",
+    "main.js": "/smart-home/static/js/main.2ab7c4e2.js",
+    "static/media/bedroom.jpg": "/smart-home/static/media/bedroom.80c904b1c0f573bbae71.jpg",
+    "static/media/smartTV.jpg": "/smart-home/static/media/smartTV.83cfe39f6cdc88107a4a.jpg",
+    "static/media/living-room.jpeg": "/smart-home/static/media/living-room.74dc765ddf3aaf757cd3.jpeg",
+    "static/media/light.jpeg": "/smart-home/static/media/light.ce2ddbcf8439d7dac8f1.jpeg",
+    "static/media/kitchen.jpg": "/smart-home/static/media/kitchen.8c334d703c83866b900e.jpg",
+    "static/media/humid.jpg": "/smart-home/static/media/humid.ef580737bb096c14d1e7.jpg",
+    "static/media/fan.jpg": "/smart-home/static/media/fan.4b553ce3ce5fc7aec95c.jpg",
+    "static/media/speaker.jpg": "/smart-home/static/media/speaker.7368cdd5e549c9250e51.jpg",
+    "static/media/air.jpg": "/smart-home/static/media/air.41c5f2582c2704dfc127.jpg",
+    "static/media/vacuum.jpeg": "/smart-home/static/media/vacuum.0f9b4bf088f18770a913.jpeg",
+    "index.html": "/smart-home/index.html",
+    "main.a71e576a.css.map": "/smart-home/static/css/main.a71e576a.css.map",
+    "main.2ab7c4e2.js.map": "/smart-home/static/js/main.2ab7c4e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a71e576a.css",
+    "static/js/main.2ab7c4e2.js"
+  ]
+}
